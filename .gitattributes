@@ -1,1 +1,2 @@
 build/Charts/xref-Charts.html linguist-vendored
+build/Charts/*.tex linguist-vendored
