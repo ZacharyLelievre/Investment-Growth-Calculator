@@ -1,2 +1,9 @@
 build/Charts/*.html linguist-vendored
-build/Charts/*.tex linguist-vendored
+build/Charts/PKG-00.toc linguist-vendored
+build/Charts/PYZ-00.toc linguist-vendored
+build/Charts/Tree-02.toc linguist-vendored
+build/Charts/Tree-01.toc linguist-vendored
+build/Charts/Tree-00.toc linguist-vendored
+build/Charts/Analysis-00.toc linguist-vendored
+build/Charts/EXE-00.toc linguist-vendored
+
