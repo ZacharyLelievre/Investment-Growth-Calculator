@@ -18,6 +18,7 @@ This project is a simple Investment Growth Calculator built using Python's `Tkin
 
 Here's a preview of the Investment Growth Calculator in action:
 *Main window where users input their investment details.*
+
 <img width="410" src="https://github.com/user-attachments/assets/3cf3fc1d-9c8f-434c-92ce-723d74bbe830">
 
 
@@ -25,6 +26,7 @@ Here's a preview of the Investment Growth Calculator in action:
 
 
 *Line chart showing the projected growth of the investment over time.*
+
 <img width="636"  src="https://github.com/user-attachments/assets/c064199b-bc35-42c0-830f-223b8f3c3566">
 
 
