@@ -14,7 +14,25 @@ This project is a simple Investment Growth Calculator built using Python's `Tkin
 - Tkinter
 - Matplotlib
 
+## Preview
+
+Here's a preview of the Investment Growth Calculator in action:
+*Main window where users input their investment details.*
+<img width="410" src="https://github.com/user-attachments/assets/3cf3fc1d-9c8f-434c-92ce-723d74bbe830">
+
+
+
+
+
+*Line chart showing the projected growth of the investment over time.*
+<img width="636"  src="https://github.com/user-attachments/assets/c064199b-bc35-42c0-830f-223b8f3c3566">
+
+
+
+
 ## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/ZacharyLelievre/Investment-Growth-Calculator
+
+
