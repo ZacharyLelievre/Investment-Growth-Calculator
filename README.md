@@ -15,7 +15,6 @@ This project is a simple Investment Growth Calculator built using Python's `Tkin
 - Matplotlib
 
 ## Preview
-
 Here's a preview of the Investment Growth Calculator in action:
 *Main window where users input their investment details.*
 
